@@ -16,3 +16,9 @@
 - git commit -m " Mensagem do commit"
 - ## Push
 - git push origin (main ou master (nome da sua branch))
+
+  # Clone, Fecth e Pull
+  -git clone (link do repositório)
+  -git Fetch (verifica os Commits novos do Repositório)
+  -git status (Verfifica o status)
+  -git pull (puxa os dados para a sua máquina)
